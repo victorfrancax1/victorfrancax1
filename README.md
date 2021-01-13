@@ -1,4 +1,9 @@
-### Hi from Brazil! :brazil:
+### Hi from Brazil!
+<center>
+
+<img style="align-self: center;" alt="partyparrot" src="https://cultofthepartyparrot.com/flags/hd/brazilparrot.gif" />
+
+</center>
 
 <!--
 **victorfrancax1/victorfrancax1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
