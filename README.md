@@ -1,7 +1,7 @@
-### Hi from Brazil!
+### Brazilian parrot says hi!
 <center>
 
-<img style="align-self: center;" alt="partyparrot" src="https://cultofthepartyparrot.com/flags/hd/brazilparrot.gif" />
+<img style="align-self: center;" height="75px" alt="partyparrot" src="https://cultofthepartyparrot.com/flags/hd/brazilparrot.gif" />
 
 </center>
 
